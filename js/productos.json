@@ -1,0 +1,113 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "Campera de invierno negra River Plate",
+        "imagen": "./img/abrigo1.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 45000
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Buzo rojo con cuello River Plate",
+        "imagen": "./img/abrigo2.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 36000
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Campera de invierno roja River Plate",
+        "imagen": "./img/abrigo3.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 28000
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Campera de invierno blanca River Plate",
+        "imagen": "./img/abrigo4.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 55000
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "Camiseta titular 2021 River Plate",
+        "imagen": "./img/camiseta1.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 28000
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Camiseta titular 2022 River Plate",
+        "imagen": "./img/camiseta2.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 42000
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Camiseta Retro 2005 River Plate",
+        "imagen": "./img/camiseta3.png",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 35000
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "Camiseta arquero alternativa 2023 River Plate",
+        "imagen": "./img/camiseta4.png",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 31000
+    },
+    
+    {
+        "id": "short-01",
+        "titulo": "Short alternativo River Plate 2022",
+        "imagen": "./img/short1.jpeg",
+        "categoria": {
+            "nombre": "Shorts",
+            "id": "shorts"
+        },
+        "precio": 8300
+    },
+    {
+        "id": "short-02",
+        "titulo": "Short alternativo arquero River Plate 2023",
+        "imagen": "./img/short2.png",
+        "categoria": {
+            "nombre": "Shorts",
+            "id": "shorts"
+        },
+        "precio": 9500
+    },
+    {
+        "id": "short-03",
+        "titulo": "Short alternativo River Plate 2020",
+        "imagen": "./img/short3.jpg",
+        "categoria": {
+            "nombre": "Shorts",
+            "id": "shorts"
+        },
+        "precio": 6900
+    }
+]
